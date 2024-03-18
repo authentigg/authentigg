@@ -2,8 +2,7 @@
 - 👀 I’m interested in I.A. and games
 - 🌱 I’m currently learning Software Engenering
 - 📫 How to reach me On discord: lordamarante
-- 😄 Pronouns: 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I just like playing games alot.
 
 <!---
 authentigg/authentigg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
