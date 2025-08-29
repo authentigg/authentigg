@@ -128,13 +128,13 @@
 * Pipelines **GitHub Actions** (build, test, lint) — to add when API is stable
 
 ---
-
 ## 📈 Stats (automatic)
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=authentigg&show_icons=true&theme=transparent&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=authentigg&layout=compact&theme=transparent" />
 </p>
+
 
 ---
 
