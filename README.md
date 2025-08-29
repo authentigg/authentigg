@@ -77,7 +77,7 @@
 
 * Customers queues, multiple checkouts (enum operational), revenue, reports.
 * Simple persistence in CSV file; basic unit tests.
-* **Repository:** `https://github.com/SEU_USUARIO/supermercado-poo`
+* **Repository:** `https://github.com/authentigg/supermercado-poo`
 
 **Suggested backlog:**
 
