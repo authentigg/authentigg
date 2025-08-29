@@ -177,7 +177,7 @@
 ## 📬 Contact
 
 * **LinkedIn:** [https://www.linkedin.com/in/gabriel-amarante-gomes-de-souza-b31195300](https://www.linkedin.com/in/gabriel-amarante-gomes-de-souza-b31195300)
-* **Email:** [seu.email@exemplo.com](mailto:amarante.ggs@gmail.com)
+* **Email:** [amarante.ggs@gmail.com](mailto:amarante.ggs@gmail.com)
 
 > Say hello and let's build something together 🤝
 
